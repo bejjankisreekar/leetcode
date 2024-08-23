@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d456fd33-c4ae-4f2b-ae38-30d1ba8d8cf7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/0021_Merge_two_sorted_linkedlists.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/0001_0200/0001_0100/0021_Merge_two_sorted_linkedlists.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,12 @@
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Github_projects\DSA_topicwise\Leetcode\python\0001_0200\0001_0100" />
+      <recent name="D:\Github_projects\DSA_topicwise\Leetcode\python\0001_0200" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
